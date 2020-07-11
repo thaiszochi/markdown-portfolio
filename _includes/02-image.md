@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+1[Image of cat saying "what?"](https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
